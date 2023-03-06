@@ -22,4 +22,6 @@ form fieldset label {
 
 form fieldset input, textarea {
     width: 100%;
+    outline: none;
 }
+
