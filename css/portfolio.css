@@ -1,0 +1,18 @@
+
+
+main {
+    text-align: center;
+}
+
+.item-portfolio {
+    display: inline-block;
+    border: 1px solid #3E848C ;
+    border-radius: 15px;
+    margin: 100px;
+}
+
+.card {
+    background-color: #3E848C;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
