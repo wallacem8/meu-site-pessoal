@@ -102,3 +102,7 @@ footer {
 .button-li > a:hover {
     color: #d99c79;
 }
+
+.invalid {
+    border: 2px solid red;
+}
